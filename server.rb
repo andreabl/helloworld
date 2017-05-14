@@ -1,3 +1,4 @@
+#!/usr/bin/ruby 
 # Requires the Gemfile
 require 'bundler' ; Bundler.require
 
