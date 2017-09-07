@@ -1,4 +1,4 @@
 source "http://rubygems.org"
 
-gem 'sinatra'
-gem 'foreman'
+gem 'rake'
+gem 'sinatra', require: 'sinatra'
