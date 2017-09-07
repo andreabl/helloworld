@@ -1,4 +1,4 @@
-FROM ruby:2.1-onbuild
+FROM ruby:2.3-onbuild
 
 
 MAINTAINER Andreas Blaafladt <andreas@blaafladt.no>
